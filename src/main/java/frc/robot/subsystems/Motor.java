@@ -59,6 +59,7 @@ talonFX1 = new WPI_TalonFX(23);
         // This method will be called once per scheduler run when in simulation
 
     }
+    
 
     // Put methods for controlling this subsystem
     // here. Call these from Commands.
